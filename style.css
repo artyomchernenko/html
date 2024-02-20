@@ -1,0 +1,66 @@
+img {
+    border: 3px solid black; 
+    border-radius: 5%;
+}
+@font-face {
+  font-family: texxt;
+  src: url(fonts/Cinzel-VariableFont_wght.ttf);
+
+
+}
+@font-face {
+  font-family: url;
+  src: url(fonts/Cinzel-VariableFont_wght.ttf)
+}
+@font-face {
+  font-family:med;
+  src: url(fonts/Cinzel-VariableFont_wght.ttf)
+}
+
+@font-face {
+    font-family: big;
+    src: url(fonts/MedievalSharp-Regular.ttf);
+  }
+  
+ h1{
+    font-family: med;
+
+ }
+ h2{
+      font-family: big;
+    }
+
+
+  body {
+    background-color: rgb(185, 190, 196);
+    text-align: center;
+    list-style-position: inside;
+  
+  }
+
+  a {
+    font-size: 25;
+    color:blue;
+    font-family: url;
+  
+
+  }
+  h3{
+    font-family: texxt
+  }
+  .center{
+    text-align: center;
+  }
+  li {
+    font-size: 20;
+  }
+  a:hover{
+    color: rgb(150, 4, 4);
+  }
+  .outlined-text{ 
+    
+  -webkit-text-stroke: 0.6px rgb(150, 4, 4);
+  }
+  h3{
+    font-size: 23px;
+  }
