@@ -19,7 +19,8 @@ img {
 
 @font-face {
     font-family: big;
-    src: url(fonts/MedievalSharp-Regular.ttf);
+    src: url(fonts/Merienda-VariableFont_wght.ttf);
+    
   }
   
  h1{
@@ -28,6 +29,7 @@ img {
  }
  h2{
       font-family: big;
+      font-size: 30px;
     }
 
 
@@ -64,3 +66,11 @@ img {
   h3{
     font-size: 23px;
   }
+  .big-icon{
+    font-size: 50px;
+  }
+  b{
+    font-family: big;
+    font-size: 30px;
+  }
+ 
