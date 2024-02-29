@@ -73,4 +73,8 @@ img {
     font-family: big;
     font-size: 30px;
   }
- 
+
+  
+ hr{
+  border: 1px solid black
+ }
